@@ -111,4 +111,13 @@ Text Box Recognition:<br>
      width="1280" height="auto">
 <br>
 
+Example 6: RoadSign.png<br>
+<img src="./samples/RoadSign.png" width="1280" height="auto"><br>
+<br>
+
+Text Box Recognition:<br>
+<img src="./outputs/preprocessed_scaling_3_contrast_2_sharpness_3_RoadSign.png"
+     width="1280" height="auto">
+<br>
+
 
