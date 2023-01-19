@@ -43,7 +43,7 @@ class RecognizedObjectsVisualizer:
         direction = TEXT_HORIZONTAL
       if fsize >30:
         fsize -=24
-      
+      fsize = int(fsize)
       font = ImageFont.truetype(self.font_name, fsize) 
     except IOError:
       print("Failed to font_name {} size {} ".format(self.font_name, fsize))

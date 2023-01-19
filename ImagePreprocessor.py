@@ -33,7 +33,7 @@ class ImagePreprocessor:
 
     self.image_scaling = image_scaling
 
-    self.constrast     = contrast
+    self.contrast      = contrast
     self.sharpness     = sharpness
     
     if os.path.exists(image_file):
